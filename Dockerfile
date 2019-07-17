@@ -2,7 +2,7 @@ FROM phusion/baseimage
 LABEL maintainer="Artemio Stranetti <choodique@pm.me>"
 
 # TorrServer version
-ENV TORRSERVER_VERSION="1.1.70"
+ENV TORRSERVER_VERSION="1.1.69"
 
 # TorrServer architecture
 ENV TORRSERVER_ARCH="linux-amd64"

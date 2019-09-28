@@ -2,7 +2,7 @@ FROM phusion/baseimage
 LABEL maintainer="Shadalik"
 
 # TorrServer version
-ENV TORRSERVER_VERSION="1.1.73"
+ENV TORRSERVER_VERSION="1.1.72"
 
 # TorrServer architecture
 ENV TORRSERVER_ARCH="linux-amd64"

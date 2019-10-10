@@ -1,5 +1,5 @@
 FROM phusion/baseimage
-LABEL maintainer="Shadalik"
+LABEL maintainer="Silergo"
 
 # TorrServer version
 ENV TORRSERVER_VERSION="1.1.73"
